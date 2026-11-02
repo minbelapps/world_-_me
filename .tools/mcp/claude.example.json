@@ -1,0 +1,25 @@
+{
+  "mcpServers": {
+    "google-workspace": {
+      "command": "C:/Users/minda/.local/share/world-and-me-mcp/venv/Scripts/workspace-mcp.exe",
+      "args": [
+        "--transport",
+        "stdio",
+        "--read-only",
+        "--tool-tier",
+        "core",
+        "--tools",
+        "drive",
+        "docs",
+        "sheets",
+        "slides"
+      ],
+      "env": {
+        "USER_GOOGLE_EMAIL": "minbelapps@gmail.com",
+        "WORKSPACE_MCP_CREDENTIALS_DIR": "C:/Users/minda/.local/share/world-and-me-mcp/credentials",
+        "GOOGLE_CLIENT_SECRET_PATH": "C:/Users/minda/.local/share/world-and-me-mcp/config/client-secret.json",
+        "PYTHONUTF8": "1"
+      }
+    }
+  }
+}

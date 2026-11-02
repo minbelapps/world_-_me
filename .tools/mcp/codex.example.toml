@@ -1,0 +1,12 @@
+# EXAMPLE ONLY: not installed in Codex settings.
+# Read-only profile; Google OAuth client setup is still required.
+[mcp_servers.google-workspace]
+command = 'C:\Users\minda\.local\share\world-and-me-mcp\venv\Scripts\workspace-mcp.exe'
+args = ['--transport', 'stdio', '--read-only', '--tool-tier', 'core', '--tools', 'drive', 'docs', 'sheets', 'slides']
+startup_timeout_sec = 60
+
+[mcp_servers.google-workspace.env]
+USER_GOOGLE_EMAIL = 'minbelapps@gmail.com'
+GOOGLE_CLIENT_SECRET_PATH = 'C:/Users/minda/.local/share/world-and-me-mcp/config/client-secret.json'
+WORKSPACE_MCP_CREDENTIALS_DIR = 'C:/Users/minda/.local/share/world-and-me-mcp/credentials'
+PYTHONUTF8 = '1'
