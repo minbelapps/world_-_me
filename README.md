@@ -124,6 +124,8 @@ Kiekvienas reikšmingas bandymas turi palikti daugiau nei vien sėkmės ar nesė
 
 Nesėkmės nepervadiname sėkme. Iš jos galima susigrąžinti vertę: atmesti klaidingą kryptį, patikslinti ribą, išsaugoti naudingą dalį ar pakeisti darbo būdą. Pamoka naudinga tada, kai pakeičia vėlesnį sprendimą. Naujos taisyklės ir peržiūros pačios turi kainą, todėl sistemos neapsunkiname vien dėl tvarkingumo.
 
+Taip pat tikriname patį mokymosi būdą: ar surinktos pamokos pakeičia vėlesnius veiksmus ir ar tie pakeitimai padeda. Siūloma tvarka – aprašyti konkrečią problemą, dabartinį būdą, vieną pakeitimą, iš anksto sutartą kriterijų ir ribotą bandymą; po jo spręsti, ar būdą palikti, tikslinti, ar grįžti prie ankstesnio. Metodą tikriname pagal darbų kokybę ir sąnaudas, ne pagal refleksijų kiekį. Tai ne sėkmės garantija ir ne jau veikiantis automatinis procesas. Praktinės ribos ir peržiūrėtojo paskirtis: [STRUKTURA.md](STRUKTURA.md), 9 skyrius.
+
 ## 9. PC, GitHub ir Google Drive
 
 | Vieta | Pagrindinė paskirtis |

@@ -127,10 +127,58 @@ Vaidmuo gali būti vienkartinė užduotis agentui; nebūtinai atskiras nuolatini
 
 Diskusijos atveria alternatyvas, o priežiūra tikrina jų nagrinėjimą. Turų riba apriboja sąnaudas, ne primeta rezultatą. Visi dalyviai kalba suprantamai, nekuria savos kalbos ir nepaverčia spėjimų atliktais darbais.
 
-## 9. Kaip sistema pati tobulėja
+## 9. Kaip tikriname ir keičiame mokymosi būdą
 
-Stebime du rezultatus: ką davė konkretus darbas ir kaip veikė jį pasirinkusi bei atlikusi tvarka. Po peržiūros siūlome vieną ar kelis pagrįstus pakeitimus, savininkas juos patvirtina, išbandome ribotai ir palyginame su ankstesniu būdu.
+Savininko kryptis: klestėti, augti, tobulėti ir plėsti galimybes. Tai ambicija, kuriai dar reikia konkrečių tikslų ir apribojimų. Juokais paminėtas nemirtingumas nėra vykdomas tikslas ar projektas. Sėkmės nelaikome garantuota vien dėl nuolatinio mokymosi.
 
-Vertiname ir klaidas, ir praleistas galimybes: ar per ilgai analizavome, ar skubėjome, ar perspėjimai buvo naudingi, ar naujos taisyklės neapsunkino darbo labiau nei padėjo. Nepasitvirtinusios prognozės ir nenusisekę bandymai lieka istorijoje, o ne ištrinami dėl gražaus bendro vaizdo.
+Vertiname tris atskirus dalykus:
 
-Valdymo sudėtingumą auginame tik tada, kai turime aiškų praktinį poreikį. Šio etapo rezultatas yra bendras modelis ir vaidmenų aprašas. Kitas mažas žingsnis galėtų būti vienas krypčių analitiko bandomasis tyrimas su peržiūra, bet jo temą ir ribas dar turi pasirinkti savininkas.
+1. **Darbo rezultatą:** ką padarėme, kiek sunaudojome ir ar tai naudinga.
+2. **Išmoktą pamoką:** ar po ankstesnio bandymo pakeitėme konkretų veiksmą ir ar tai padėjo vėliau.
+3. **Mokymosi būdą:** ar tinkamai renkamės bandymus, atpažįstame klaidas, tikriname išvadas ir perkeliame pamokas į kitus darbus.
+
+Vien įrašas „pasimokėme“ nėra pagerėjimo įrodymas. Jei daugėja aprašų, bet tos pačios klaidos kartojasi, peržiūrime ne tik vykdytoją, bet ir pamokų rinkimo bei panaudojimo tvarką.
+
+### Siūlomas vieno pakeitimo bandymas
+
+| Ką užrašome | Kam to reikia |
+|---|---|
+| Konkreti problema ir pavyzdžiai | Atskirti pasikartojančią bėdą nuo vienkartinio įspūdžio. |
+| Dabartinis būdas ir jo rezultatas | Turėti su kuo palyginti pakeitimą. Jei duomenų nėra, tai aiškiai pažymėti. |
+| Siūlomas pakeitimas ir numatoma nauda | Prieš bandymą pasakyti, kas ir kodėl turėtų pagerėti. |
+| Vertinimo kriterijus | Iš anksto sutarti, koks stebimas rezultatas reikš pagerėjimą, o koks jo neparodys. |
+| Bandymo ribos | Viena užduotis ar nedidelė panašių darbų grupė, laiko / išlaidų riba ir peržiūros momentas. |
+| Tikras rezultatas, sąnaudos ir šalutiniai poveikiai | Neprilyginti geresnio vieno rodiklio geresniam darbui apskritai. |
+| Išvada ir tolimesnis veiksmas | Palikti naują būdą, patikslinti, grįžti prie seno arba pripažinti, kad duomenų nepakanka. |
+
+Pradžiai keičiame vieną reikšmingą dalyką, kai tai praktiška. Skirtingo sunkumo užduočių ar pasikeitusių sąlygų rezultatai nėra savaime palyginami. Vieno sėkmingo bandymo pakanka mažam vietiniam sprendimui, bet ne teiginiui, kad radome visur geriausią metodą. Nežinomų matavimų neišgalvojame, kriterijų po bandymo nepakeičiame tam, kad gautume sėkmę.
+
+### Kaip pasirenkame kriterijus
+
+Kriterijus priklauso nuo darbo, o ne nuo universalaus balo. Pavyzdžiui:
+
+- Ar kitame panašiame darbe nepasikartojo jau nustatyta klaida?
+- Ar analizė davė patikrinamą atsakymą į konkretų sprendimo klausimą?
+- Ar sprendimui reikėjo mažiau laiko, nesumažėjus sutartai kokybei?
+- Ar prognozės buvo tikrinamos sutartu metu, o ne aiškinamos tik po įvykio?
+- Ar nauja taisyklė davė daugiau naudos nei kainavo jos taikymas?
+
+Dokumentų, diskusijų turų ar agentų pritarimų kiekis savaime nėra pažangos rodiklis. Klaidos neprivalo išnykti visos; svarbu atskirti pagerėjimą nuo patogaus pasakojimo apie jį.
+
+### Kas tai prižiūri
+
+Koordinatorius pastebi pasikartojančias problemas ir pasiūlo ribotą darbo būdo peržiūrą. Savininkas patvirtina reikšmingą pakeitimą. Vykdytojas išbando, o atskiras peržiūrėtojas, kai tai pagrįsta darbo svarba, tikrina ne tik rezultatą, bet ir ar išvada apie pagerėjimą pagrįsta. Pats koordinatorius ir jo taikomi metodai taip pat gali būti peržiūrimi.
+
+Metodų vertinimas gali būti konkreti užduotis agentui; tam iškart nereikia naujo nuolatinio skyriaus ar nesibaigiančios prižiūrėtojų grandinės. Šiuo dokumentu tokia užduotis ar automatinis procesas nepaleidžiamas.
+
+### Kada sustabdome analizę
+
+Bandymo ribą ir peržiūros momentą nustatome prieš darbą. Pasiekę ribą pateikiame tai, ką nustatėme, ir grįžtame prie sprendimo: tęsti darbą, keisti metodą ar prašyti konkretaus papildomo bandymo. Papildoma analizė turi turėti trūkstamą klausimą ir naują pagrįstą ribą; vien galimybė dar ką nors aptarti nėra pakankama priežastis tęsti.
+
+Jei nėra naujų duomenų ar sprendimo, kurį analizė galėtų pakeisti, ją atidedame. Naujas pagerinimo pasiūlymas nėra privalomas po kiekvieno mažo veiksmo. Dabartinė idėjų rinkimo diena nėra paverčiama pareiga kiekvieną mintį iškart išmatuoti ar įgyvendinti.
+
+### Ką išsaugome
+
+Ankstesnį būdą, bandymo prielaidas ir rezultatą paliekame atsekamus. Patvirtintą pakeitimą įrašome ten, kur jo prireiks kitam darbui, ne vien į ilgą retrospektyvą. Jei pakeitimas nepasiteisino, užrašome kodėl ir galime grįžti prie ankstesnio. Mokymosi rezultatas yra pakeistas ir patikrintas elgesys, ne nuolatinis sistemos perrašymas.
+
+Šis skyrius yra siūlomas praktinis pagrindas. Konkrečius bandymus, matavimus ir peržiūrų dažnį sutarsime pagal tikrą darbą.
