@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-03",
+  "cutoff": "2026-11-03T14:58:00+02:00",
+  "authors": [
+    "Codex",
+    "Koordinatorius (papildoma patikra)"
+  ],
+  "news": [
+    {
+      "id": "N1",
+      "date": "2026-10-28",
+      "published": "2026-11-02",
+      "title": "JAV pradėjo robotikos importo derybas, bet nenustatė naujo muito",
+      "summary": "Spalio 28 d. pasirašyta proklamacija 11077 lapkričio 2 d. paskelbta Federal Register. Prekybos sekretoriui ir JAV prekybos atstovui pavesta derėtis su partneriais ir per 180 dienų pateikti pažangos atnaujinimą. Muitai, kvotos ir gamybos skatinimas išvardyti kaip galimos tolesnės priemonės, o ne jau įsigalioję tarifai. Automatizavimo projektams atsiranda papildomas tiekimo sąlygų neapibrėžtumas; faktinio įrangos pabrangimo šis dokumentas neįrodo.",
+      "source": [
+        "https://www.govinfo.gov/content/pkg/FR-2026-11-02/pdf/2026-22385.pdf"
+      ],
+      "status": "Pirminis dokumentas perskaitytas tyrėjo ir koordinatoriaus."
+    },
+    {
+      "id": "N2",
+      "date": "2026-07-01/2026-09-30",
+      "published": "2026-11-02 (antrinė publikacija); A3 data nenustatyta",
+      "title": "Šiaurės Amerikos Q3 robotų užsakymai augo 24,8 procento",
+      "summary": "A3 vieša santrauka nurodo 10 989 trečiąjį ketvirtį užsakytus robotus už 723,5 mln. USD. Palyginti su 2025 m. Q3, vienetų skaičius padidėjo 24,8 %, vertė – 26,1 %. Koordinatorius patvirtino visus keturis skaičius perskaitytoje A3 santraukoje. Tai senesnio ketvirčio paklausos duomenys, patekę į lapkričio naujienų srautą, o ne lapkričio pristatymai ar veikiančių sistemų apskaita. Tiksli A3 paskelbimo data nenustatyta. Spalio pabaigos proklamacija negalėjo sukelti jau pasibaigusio Q3 užsakymų augimo.",
+      "source": [
+        "https://www.automate.org/vault/a3-robotics-statistics/a3-robotics-3q-2026-deluxe-press-release",
+        "https://roboticsandautomationnews.com/2026/11/02/north-american-robot-orders-increase-25-percent-in-third-quarter-of-2026/106606/"
+      ],
+      "status": "A3 vieša santrauka pilnai perskaityta koordinatoriaus; pirminė paskelbimo data nežinoma."
+    },
+    {
+      "id": "N3",
+      "date": "2026-11-02",
+      "published": "2026-11-02",
+      "title": "Estijoje pakeista šaldiklio nuostata, bet produktai nenukentėjo",
+      "summary": "Vienoje „Selver“ parduotuvėje užpuolikai pasiekė senesnės „Danfoss“ šaldymo sistemos valdymo kompiuterį ir nustatė +50 °C. Tai valdiklio nuostata, ne išmatuota produktų temperatūra: techninis partneris nurodė tik maždaug 2–3 laipsnių tikrą pakilimą. Incidentas pastebėtas ir reaguota per dešimt minučių; normali temperatūra grįžo maždaug per 10–15 minučių. Prekybininko ir partnerio teigimu, produktai nenukentėjo. Prieigos būdas nenustatytas; nėra įrodymo, siejančio šį atvejį su Ukrainos perspėjimų incidentu.",
+      "source": [
+        "https://news.err.ee/1610183296/hackers-raised-freezer-temperature-at-selver-supermarket-to-50-c"
+      ],
+      "status": "ERR pilnas tekstas perskaitytas; padariniai pagal prekybininką ir techninį partnerį."
+    },
+    {
+      "id": "N4",
+      "date": "2026-11-01/2026-11-02",
+      "published": "2026-11-01; atnaujinta 2026-11-02",
+      "title": "Ukrainos „Air Alert“ siuntė melagingus pavojaus pranešimus",
+      "summary": "Lapkričio 1 d. vėlai vakare naudotojus pasiekė netikri radiacinio, cheminio pavojaus ir gatvių kautynių perspėjimai. Kūrėjai išjungė stumiamuosius pranešimus ir laikinai sustabdė programėlę; institucijos nurodė alternatyvius informavimo kanalus. Klaidingi pranešimai pašalinti, vėliau skelbta apie laipsnišką veikimo atkūrimą. Tai konkretaus perspėjimų kanalo vientisumo incidentas, ne tikras branduolinis pavojus ar įrodymas, kad kompromituota visa nacionalinė perspėjimų infrastruktūra. Naujesnis viešas pareiškimas apie atsaką pateikiamas atskiroje N6 naujienoje.",
+      "source": [
+        "https://kyivindependent.com/ukraines-air-raid-alert-system-hacked-air-force-says-as-false-nuclear-chemical-warnings-sound/"
+      ],
+      "status": "KI pilnas tekstas perskaitytas tyrėjo ir koordinatoriaus."
+    },
+    {
+      "id": "N5",
+      "date": "2026-11-02/2026-11-03",
+      "published": "2026-11-03",
+      "title": "Smūgiai Ukrainos energetikai sukėlė avarinius atjungimus",
+      "summary": "Lapkričio 2–3 d. naktį raketų ir dronų smūgiai pažeidė Ukrainos energetikos infrastruktūrą. Lapkričio 3 d. pranešta apie avarinius atjungimus Kyjive ir keliose srityse, taip pat ilgus planinius ribojimus. „Ukrainska Pravda“ cituojamų pranešimų geografija nesutampa: minima devynios arba dešimt sričių, todėl vieno tikslaus skaičiaus neteikiame. Papildomą tos dienos smūgių energetikai aprašymą paskelbė „Kyiv Independent“. Konkretaus atjungimo vieta savaime neįrodo naujo pataikymo toje vietoje; nepriklausoma visa objektų žalos inventorizacija neatlikta.",
+      "source": [
+        "https://www.pravda.com.ua/eng/news/2026/11/03/8061003/",
+        "https://kyivindependent.com/russia-unleashes-biggest-mass-attack-on-ukraines-energy-this-year-2/"
+      ],
+      "status": "UP tekstas perskaitytas tyrėjo, koordinatoriaus atvėrimas nepavyko; KI energetikos tekstas perskaitytas koordinatoriaus. DTEK originalas: 403."
+    },
+    {
+      "id": "N6",
+      "date": "2026-11-02",
+      "published": "2026-11-03 01:06 (leidėjo laiko zona nepatvirtinta)",
+      "title": "Zelenskis patvirtino atsakomąjį įsilaužimą į Rusijos perspėjimų sistemą",
+      "summary": "Lapkričio 3 d. „Kyiv Independent“ paskelbė Zelenskio patvirtinimą, kad lapkričio 2 d. Ukraina įsilaužė į Rusijos sistemas atsakydama į ankstesnę ataką prieš Ukrainos perspėjimų programėlę. Rusijos ekstremaliųjų situacijų ministerija taip pat pranešė apie programėlės kompromitavimą ir melagingus pranešimus. Ryšys tarp N4 ir šio veiksmo remiasi viešu vadovo pripažinimu. Jo teiginys apie pirminės atakos rusišką kilmę nėra nepriklausomas techninis priskyrimas. Įvykis datuojamas lapkričio 2 d.; lapkričio 3 d. yra patvirtinimo publikacijos data.",
+      "source": [
+        "https://kyivindependent.com/zelensky-confirms-ukraine-targeted-russian-emergency-alert-systems-in-retaliatory-hack/"
+      ],
+      "status": "KI tekstas perskaitytas koordinatoriaus; PBS originalo atvėrimas grąžino 403."
+    }
+  ],
+  "assessments": [
+    {
+      "id": "V1",
+      "title": "Robotikos paklausa stipri, prekybos sąlygos neapibrėžtos",
+      "basis": [
+        "N1",
+        "N2"
+      ],
+      "text": "Q3 užsakymai rodo išaugusią paklausą, o vėlesnė JAV procedūra prideda tiekimo sąlygų neapibrėžtumą. Tai du skirtingi signalai, ne įrodyta priežastinė grandinė ir ne Lietuvos mokios rinkos patvirtinimas.",
+      "strength": "Vidutinis: konkretūs duomenys, bet tik vienas ketvirtis ir dar ne derybų rezultatas."
+    },
+    {
+      "id": "V2",
+      "title": "Greitas izoliavimas riboja žalą, bet prieigos rizika išlieka",
+      "basis": [
+        "N3",
+        "N4",
+        "N6"
+      ],
+      "text": "Estijos valdiklio ir Ukrainos perspėjimų atvejai rodo skirtingų valdymo prieigų reikšmę. Tik N4–N6 sieja viešai pripažintas atsakas; Estijos priskirti tai pačiai operacijai negalima.",
+      "strength": "Vidutinis funkciniam modeliui; bendros Estijos ir Ukrainos kilmės įrodymų nėra."
+    },
+    {
+      "id": "V3",
+      "title": "Elektros tęstinumas priklauso nuo pažeidimų ir tinklo apsaugos",
+      "basis": [
+        "N5"
+      ],
+      "text": "Fiziniai energetikos pažeidimai ir jau taikomi ribojimai pagrindžia trumpalaikio tiekimo nestabilumo vertinimą. Kiekvieno vėlesnio atjungimo negalima automatiškai priskirti būtent šiai smūgių bangai.",
+      "strength": "Vidutinis: žala ir ribojimai aprašyti, bet mastas ir atskirų atjungimų priežastys nevisiškai patikrinti."
+    }
+  ],
+  "forecasts": [
+    {
+      "id": "P1",
+      "title": "Pasirodys viešas robotikos importo derybų rezultatas arba priemonė",
+      "recorded": "2026-11-03",
+      "horizon": "2026-11-04–2027-04-30, iki 23:59 Europe/Vilnius",
+      "basis": [
+        "N1",
+        "N2",
+        "V1"
+      ],
+      "prediction": "Iki horizonto pabaigos JAV oficialiai viešai paskelbs bent vieną konkretų susitarimą arba importo priemonę, aiškiai susietą su proklamacijos 11077 procedūra.",
+      "strength": "Silpnas–vidutinis: 180 dienų pažangos terminas skatina procedūrinį judėjimą, bet nežada viešo susitarimo.",
+      "alternative": "Derybos užsitęs arba pažangos atnaujinimas liks neviešas.",
+      "confirmation": "Datuotas Federal Register, Baltųjų rūmų, Commerce arba USTR dokumentas aiškiai susieja konkretų susitarimą ar priemonę su 11077; vien pažangos aptarimo nepakanka.",
+      "failure": "Iki termino tokio viešo dokumento nepaskelbta arba oficialiai procesas baigtas be rezultato. Tai viešo paskelbimo prognozės nesėkmė, ne įrodymas, kad neviešų derybų nebuvo.",
+      "missing_data": "2027-05-07 vieną kartą patikrinti keturių institucijų archyvus ir dokumentų datas. Jei archyvai prieinami, nerastas paskelbimas reiškia nepasitvirtino. Jei esminiai archyvai neprieinami, galutinai žymėti neįvertinama dėl prieigos; nebepratęsti horizonto."
+    },
+    {
+      "id": "P2",
+      "title": "Q4 robotų užsakymų skaičius viršys ankstesnių metų Q4",
+      "recorded": "2026-11-03",
+      "horizon": "2026-10-01–2026-12-31; vertinimas 2027-03-31",
+      "basis": [
+        "N2",
+        "V1"
+      ],
+      "prediction": "Pagal palyginamą A3 apskaitą 2026 m. Q4 Šiaurės Amerikos robotų užsakymų vienetų skaičius viršys 2025 m. Q4.",
+      "strength": "Silpnas: remiamasi vienu stipriu Q3, nėra patvirtintos tęstinės tendencijos.",
+      "alternative": "Q3 augimą lėmė keli stambūs užsakymai; Q4 jie nesikartos.",
+      "confirmation": "A3 palyginami Q4 vienetų duomenys rodo teigiamą metinį pokytį; vertės augimo vieno nepakanka.",
+      "failure": "Palyginami vienetų duomenys rodo nulį arba neigiamą metinį pokytį.",
+      "missing_data": "Jei 2027-03-31 duomenų nėra, vienas galutinis patikrinimas 2027-04-30. Iki tada neskelbti duomenys ar nesuderinama metodika reiškia uždaryta: neįvertinama dėl duomenų; tai nėra nei augimo, nei kritimo patvirtinimas. Q4 laikotarpis jau prasidėjęs, bet jo galutinis rezultatas dar nežinomas."
+    },
+    {
+      "id": "P3",
+      "title": "Po lapkričio 3 d. išliks su šia žala susietų elektros ribojimų",
+      "recorded": "2026-11-03",
+      "horizon": "2026-11-04 00:00–2026-11-07 23:59 Europe/Kyiv",
+      "basis": [
+        "N5",
+        "V3"
+      ],
+      "prediction": "Bent vieną horizonto dieną Vinnycios, Žytomyro arba Charkivo srityje operatorius paskelbs elektros ribojimą, aiškiai susietą su lapkričio 2–3 d. pažeidimais.",
+      "strength": "Vidutinis: jau yra fizinė žala ir ribojimai, tačiau remonto trukmė nežinoma.",
+      "alternative": "Tiekimas greitai atkuriamas arba vėlesnius ribojimus sukelia nauji smūgiai ar senesnis deficitas.",
+      "confirmation": "Datuotas operatoriaus pranešimas ar grafikas bent vienai iš trijų sričių ir aiškus ryšys su šia žala. Nauja publikacija apie vien lapkričio 3 d. ribojimus nesiskaito.",
+      "failure": "Operatorių duomenys patvirtina atkūrimą visose trijose srityse iki lapkričio 4 d. ir šios žalos ribojimų nebuvimą per horizontą.",
+      "missing_data": "2026-11-10 tikrinti visų trijų sričių operatorių bei Ukrenergo lapkričio 4–7 d. archyvus. Jei yra ribojimų, bet priežasties neįmanoma atskirti, galutinai uždaryti kaip neįvertinama dėl priskyrimo. Jei nėra pilnos laikotarpio aprėpties, uždaryti kaip neįvertinama dėl aprėpties. Vien tylos nelaikyti paneigimu ir nelaukti neribotai."
+    }
+  ],
+  "edges": [
+    {
+      "from": "N1",
+      "to": "V1",
+      "reason": "Įvykis remia vertinimą; tai savaime nėra priežastingumas.",
+      "type": "supports"
+    },
+    {
+      "from": "N2",
+      "to": "V1",
+      "reason": "Įvykis remia vertinimą; tai savaime nėra priežastingumas.",
+      "type": "supports"
+    },
+    {
+      "from": "N3",
+      "to": "V2",
+      "reason": "Įvykis remia vertinimą; tai savaime nėra priežastingumas.",
+      "type": "supports"
+    },
+    {
+      "from": "N4",
+      "to": "V2",
+      "reason": "Įvykis remia vertinimą; tai savaime nėra priežastingumas.",
+      "type": "supports"
+    },
+    {
+      "from": "N6",
+      "to": "V2",
+      "reason": "Įvykis remia vertinimą; tai savaime nėra priežastingumas.",
+      "type": "supports"
+    },
+    {
+      "from": "N5",
+      "to": "V3",
+      "reason": "Įvykis remia vertinimą; tai savaime nėra priežastingumas.",
+      "type": "supports"
+    },
+    {
+      "from": "N1",
+      "to": "P1",
+      "reason": "Prognozės faktinis arba analitinis pagrindas.",
+      "type": "grounds"
+    },
+    {
+      "from": "N2",
+      "to": "P1",
+      "reason": "Prognozės faktinis arba analitinis pagrindas.",
+      "type": "grounds"
+    },
+    {
+      "from": "V1",
+      "to": "P1",
+      "reason": "Prognozės faktinis arba analitinis pagrindas.",
+      "type": "grounds"
+    },
+    {
+      "from": "N2",
+      "to": "P2",
+      "reason": "Prognozės faktinis arba analitinis pagrindas.",
+      "type": "grounds"
+    },
+    {
+      "from": "V1",
+      "to": "P2",
+      "reason": "Prognozės faktinis arba analitinis pagrindas.",
+      "type": "grounds"
+    },
+    {
+      "from": "N5",
+      "to": "P3",
+      "reason": "Prognozės faktinis arba analitinis pagrindas.",
+      "type": "grounds"
+    },
+    {
+      "from": "V3",
+      "to": "P3",
+      "reason": "Prognozės faktinis arba analitinis pagrindas.",
+      "type": "grounds"
+    },
+    {
+      "from": "N4",
+      "to": "N6",
+      "reason": "Atsakas pagal Zelenskio viešą patvirtinimą, paskelbtą 2026-11-03; ne nepriklausomas pirminės atakos techninis priskyrimas.",
+      "type": "declared_retaliation"
+    }
+  ]
+}

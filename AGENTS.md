@@ -12,3 +12,5 @@ Bendra projektų vystymo ir planavimo erdvė. Struktūra dar formuojama; neperd�
 - Bendrauti lietuviškai. Keitimus, registravimą ir suteikiamų prieigų apimtį derinti su savininku; diagnozę galima atlikti atskirai.
 - Commit / push tik savininkui patvirtinus konkretų rezultatą. Neįtraukti kitų agentų nepatvirtintų pakeitimų.
 - Pagrindiniai darbo rezultatai turi turėti kopiją už vien PC ribų. Sinchronizavimo ir kopijų tvarkos dar neįgyvendinome; jos nelaikyti automatiškai veikiančia.
+
+- Naujienų ir signalų užduotims perskaityti `naujienos/README.md` bei `naujienos/STRUKTURA.md`. Bendras valdymo aprašas yra `SISTEMOS-STRUKTURA.md`; jo nepainioti su naujienų struktūra.

@@ -18,9 +18,9 @@ Savininko papildymas: sistema turi ne tik vykdyti jau pasirinktus projektus, bet
 
 Vienas projektas gali tarnauti keliems tikslams, būti susijęs su keliomis sritimis ir turėti vertę, kuri atsiskleis tik pasikeitus aplinkybėms. Vertiname pajamas, sutaupymą, asmeninę naudą, atsparumą, žinias ir būsimus gebėjimus atskirai. Maždaug 20 vištų savarankiško ūkio sumanymas yra **svarstytinos idėjos pavyzdys**, o ne ketvirtas vykdomas projektas.
 
-Politinių krizių, technologinių ir kitų pokyčių vertinimas turi remtis patikrintais signalais, alternatyviais paaiškinimais ir peržiūrimais scenarijais. Pokalbyje paminėtos pratybos bei eskalacijos nepatikrintos; vien jų paminėjimas nėra krizės išvada. Išvados paskirtis – padėti pasirinkti veiksmą arba pagrįstai nieko nekeisti, ne nuolat kelti aliarmą.
+Analitikas ne tik tikrina pavienes naujienas: jis kaupia ir dar nepatikrintus pastebėjimus su aiškia būsena, ieško požymių, dėsningumų ir galimų ryšių tarp temų, išsaugo jų kitimo istoriją. Loginis, dar neįrodytas ryšys gali būti vertingas hipotezės rezultatas; jis nepervadinamas faktu. Politinių krizių, technologinių ir kitų pokyčių vertinime lyginami alternatyvūs paaiškinimai ir peržiūrimi scenarijai. Pokalbyje paminėtos pratybos bei eskalacijos nepatikrintos; vien jų paminėjimas nėra krizės išvada. Išvados paskirtis – padėti pasirinkti veiksmą arba pagrįstai nieko nekeisti, ne nuolat kelti aliarmą.
 
-Savininko metafora: save keičiantis kūnas ir žaidimas – prisitaikyti, įsitvirtinti, pergalvoti ir kartoti. Praktikoje tai reiškia patvirtintus, patikrinamus darbo ir strategijos pakeitimus. Išsamus dalių ryšys, analitiko užduotis, signalų patikra ir mokymosi tvarka: [STRUKTURA.md](STRUKTURA.md). Automatiniai stebėjimai ar nauji agentų darbai šiuo aprašu nepaleisti.
+Savininko metafora: save keičiantis kūnas ir žaidimas – prisitaikyti, įsitvirtinti, pergalvoti ir kartoti. Praktikoje tai reiškia patvirtintus, patikrinamus darbo ir strategijos pakeitimus. Bendri dalių ryšiai ir mokymosi tvarka: [SISTEMOS-STRUKTURA.md](SISTEMOS-STRUKTURA.md). Naujienų ir signalų darbo vieta: [naujienos/](naujienos/README.md). Automatiniai stebėjimai ar nauji agentų darbai šiuo aprašu nepaleisti.
 
 ## 2. Pagrindinės sąvokos
 
@@ -43,12 +43,16 @@ Tai skirtingos paskirtys, ne uždaros dėžutės. Analizė gali būti ribotos ap
 | Projektas | Pirminė paskirtis ir žinoma būsena |
 |---|---|
 | **LRT Opus** | Asmeninė Android TV radijo programėlė namų televizoriui. Pradėta savininko, vystyta su Claude ir Codex; jau praktiškai naudojamas / bandomas rezultatas ir pirmas bendro darbo pavyzdys. Techninė tiesa – atskiro projekto repozitorijoje. |
-| **Seno žaidimo atkūrimas** | Asmeninės paskirties projektas, pradėtas vystyti su ChatGPT. Žaidimo pavadinimas, tiksli apimtis, vieta ir dabartinis etapas dar nepateikti. |
-| **TV / lentyninės kolonėlės** | Seniau su ChatGPT pradėtas asmeninis projektas. Konstrukcija, biudžetas, failų vieta ir tikslus etapas dar nepateikti. |
+| **Seno žaidimo atkūrimas** | Asmeninės paskirties projektas, pradėtas vystyti su ChatGPT. Pasiekiamoje ChatGPT medžiagoje yra lentos ir vienetų prototipo aptarimas; tikras kodas ir visas sumanymas dar atkuriami. |
+| **TV / lentyninės kolonėlės** | Seniau su ChatGPT pradėtas asmeninis projektas. Perimta dalis konstrukcijos aptarimo; savininkas jau bendravo su Wood4Sound. Visas komponentų sąrašas, biudžetas ir gamybos būsena dar papildomi. |
 
 Visi trys pirmiausia skirti asmeninei naudai ir patirčiai. Galimos nedidelės pajamos ateityje, tačiau jų neplanuojame kaip jau egzistuojančių ar garantuotų. Šių projektų nereikia dirbtinai paversti dideliais verslais.
 
 LRT Opus vietinis projektas: `C:/Users/minda/AndroidStudioProjects/LRTOpusRadio`; repozitorija: https://github.com/minbelapps/LRT-OPUS. Jo kodo neperkeliame į centrinį projektą vien tam, kad viskas būtų vienoje vietoje.
+
+Centrinės kortelės ir pasiekiama ankstesnio darbo medžiaga: [vykdomų projektų registras](projects/README.md). Jame yra atskiri LRT Opus, kolonėlių ir žaidimo atkūrimo aplankai. Kolonėlių ir žaidimo kortelės pradėtos pildyti iš ChatGPT pokalbių, bet visas kodas, brėžiniai ir archyvas dar neperkelti.
+
+**Asmeninio projekto įgyvendinimas nebūtinai yra jo pabaiga.** Sukurtą produktą galima tobulinti ir vėliau pasiūlyti kitiems, kai išauga mūsų gebėjimai bei galimybės. Tai nereiškia, kad kiekvienas toks projektas dabar turi tapti prioritetiniu verslu. Tikrinimo gylį deriname prie sprendimo kainos, rizikos ir skiriamų išteklių – pradinio rinkos pavyzdžio nereikia iškart paversti išsamiu verslo auditu.
 
 ## 4. Galimos kryptys ir analitikos paskirtys
 
@@ -68,13 +72,15 @@ Galimi maži tyrimo projektai: „Ar verta veikla X?“ arba „Kokiu mažiausiu
 
 Analizei reikia klausimo, ribos ir panaudojimo: ką tiriame, kiek laiko / pinigų skiriame, koks sprendimas priklausys nuo atsakymo ir kada sustojame. Analitikos sąnaudos bei nauda pačios turi būti vertinamos, kad nenusianalizuotume nejudėdami į priekį.
 
+Pradinis naujienų temų rinkinys apima technologijas, ekonomiką, politiką, teisę, energetiką / maistą, mediciną, žmonių poreikius ir mokslą. Savininko papildymu atskirai įtraukti **karas, kibernetinės atakos, pavojaus signalai ir pasirengimo pavojams požymiai**. Juos vertiname kartu su kitomis temomis ir išsaugome ryšių istoriją. Pradinės temos, analitiko metodika ir signalų / žemėlapių darbo vieta yra [naujienos/](naujienos/README.md). Temų patvirtinimas savaime nepaleidžia automatinio stebėjimo.
+
 ## 5. Komanda ir atsakomybės
 
 **Savininkas** nustato kryptį, prioritetus, priimtiną riziką ir išteklių paskirstymą; patvirtina siūlomus pakeitimus bei rezultatus. Agentų sutarimas nepakeičia savininko sprendimo.
 
 **Koordinatorius (šiuo metu šiam vaidmeniui pasirinktas Codex)** palaiko bendrą vaizdą: sieja darbus su tikslais, išryškina priklausomybes, derina agentų darbą, saugo sprendimų tęstinumą ir pateikia savininkui aiškius pasirinkimus. Jis nėra neklystantis ir negali pats sau suteikti naujų įgaliojimų.
 
-**Aplinkos ir galimų krypčių analitikas** stebi aktualius pokyčius, siūlo artimas ir tolimas kryptis, atlieka netikėtas prielaidų patikras ir rengia scenarijus. Tai numatytas vaidmuo, galintis prasidėti nuo vienos ribotos agento užduoties; nuolatinis stebėjimas dar neįjungtas. Jis pateikia atsekamą išvadą ir siūlomą veiksmą ar neveikimą, bet nepriima savininko įsipareigojimų. Jo darbo ribos ir peržiūra aprašytos [STRUKTURA.md](STRUKTURA.md).
+**Aplinkos ir galimų krypčių analitikas** stebi aktualius pokyčius, siūlo artimas ir tolimas kryptis, atlieka netikėtas prielaidų patikras ir rengia scenarijus. Tai numatytas vaidmuo, galintis prasidėti nuo vienos ribotos agento užduoties; nuolatinis stebėjimas dar neįjungtas. Jis pateikia atsekamą išvadą ir siūlomą veiksmą ar neveikimą, bet nepriima savininko įsipareigojimų. Bendras vaidmuo aprašytas [SISTEMOS-STRUKTURA.md](SISTEMOS-STRUKTURA.md), o naujienų darbo metodika – [naujienos/STRUKTURA.md](naujienos/STRUKTURA.md).
 
 **Užduočių vykdytojai ir analitikai** kuria, tiria, tikrina ir pateikia apčiuopiamus rezultatus savo užduoties ribose. Darbą pristato taip, kad būtų įmanoma patikrinti, kas tikrai atlikta.
 
@@ -124,7 +130,7 @@ Kiekvienas reikšmingas bandymas turi palikti daugiau nei vien sėkmės ar nesė
 
 Nesėkmės nepervadiname sėkme. Iš jos galima susigrąžinti vertę: atmesti klaidingą kryptį, patikslinti ribą, išsaugoti naudingą dalį ar pakeisti darbo būdą. Pamoka naudinga tada, kai pakeičia vėlesnį sprendimą. Naujos taisyklės ir peržiūros pačios turi kainą, todėl sistemos neapsunkiname vien dėl tvarkingumo.
 
-Taip pat tikriname patį mokymosi būdą: ar surinktos pamokos pakeičia vėlesnius veiksmus ir ar tie pakeitimai padeda. Siūloma tvarka – aprašyti konkrečią problemą, dabartinį būdą, vieną pakeitimą, iš anksto sutartą kriterijų ir ribotą bandymą; po jo spręsti, ar būdą palikti, tikslinti, ar grįžti prie ankstesnio. Metodą tikriname pagal darbų kokybę ir sąnaudas, ne pagal refleksijų kiekį. Tai ne sėkmės garantija ir ne jau veikiantis automatinis procesas. Praktinės ribos ir peržiūrėtojo paskirtis: [STRUKTURA.md](STRUKTURA.md), 9 skyrius.
+Taip pat tikriname patį mokymosi būdą: ar surinktos pamokos pakeičia vėlesnius veiksmus ir ar tie pakeitimai padeda. Siūloma tvarka – aprašyti konkrečią problemą, dabartinį būdą, vieną pakeitimą, iš anksto sutartą kriterijų ir ribotą bandymą; po jo spręsti, ar būdą palikti, tikslinti, ar grįžti prie ankstesnio. Metodą tikriname pagal darbų kokybę ir sąnaudas, ne pagal refleksijų kiekį. Tai ne sėkmės garantija ir ne jau veikiantis automatinis procesas. Praktinės ribos ir peržiūrėtojo paskirtis: [SISTEMOS-STRUKTURA.md](SISTEMOS-STRUKTURA.md), 9 skyrius.
 
 ## 9. PC, GitHub ir Google Drive
 

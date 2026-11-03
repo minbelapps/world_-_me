@@ -62,7 +62,11 @@ Abiem paskirtims reikia išteklių ribos ir aiškaus tolimesnio veiksmo. Jų san
 
 ### Koks jo rezultatas
 
-Trumpas atsekamas įrašas: kas pastebėta, šaltiniai ir datos, kas patvirtinta, ko nežinome, galimi paaiškinimai, reikšmė mūsų tikslams, siūlomas veiksmas arba sąmoningas neveikimas, kada grįžti prie klausimo. Didesnis tyrimas siūlomas atskirai su savo biudžetu ir klausimu.
+Atsekami signalų įrašai ir atnaujinamas jų galimų ryšių žemėlapis: kas pastebėta, kas patikrinta, kaip taškai galėtų sietis, kokios alternatyvos lieka ir kas pasikeitė nuo ankstesnio vertinimo. Pridedama reikšmė mūsų tikslams, siūloma patikra / veiksmas arba sąmoningas neveikimas ir peržiūros momentas. Dar neįrodyta, bet paaiškinta hipotezė yra teisėtas rezultatas. Didesnis tyrimas siūlomas atskirai su savo biudžetu ir klausimu.
+
+### Naujienų stebėjimas turi atskirą darbo vietą
+
+Naujienų temų sąrašas, signalų kaupimo tvarka ir jų hipotetinių ryšių vertinimas perkelti į [naujienų struktūrą](naujienos/STRUKTURA.md). Įrašai kaupiami [signalų aplanke](naujienos/signalai/README.md), datuoti ryšių vaizdai – [žemėlapių aplanke](naujienos/zemelapiai/README.md). Bendras analitiko vaidmuo išlieka šios sistemos dalis, o naujienų darbo detalės nebedubliuojamos čia.
 
 ### Kaip jį įgyvendinsime
 
@@ -70,21 +74,9 @@ Tai gali būti atskira ribota agento užduotis, vėliau – periodinis darbas ar
 
 Pradžioje pakanka vienos konkrečios užduoties ir jos nepriklausomos peržiūros. Nevaidiname nuolat veikiančios analitikų komandos, kol jos nėra.
 
-## 5. Politinių krizių ir kitų grėsmių vertinimas
+## 5. Krizių vertinimo ryšys su bendra sistema
 
-Savininkas kaip poreikio pavyzdį paminėjo kelių valstybių pavojaus pratybas ir neįprastą, jo vertinimu, branduolinę eskalaciją. Konkrečios valstybės, įvykiai ir šaltiniai šiame pokalbyje nepateikti; čia jie **nepatikrinti**. Tai nėra šio dokumento išvada apie dabartinę krizę.
-
-Būsimo analitiko darbo eiga tokiam signalui:
-
-1. **Patikrinti patį įvykį.** Kas vyko, kur, kada, kas pranešė? Atskirti įvykio datą nuo publikacijos datos. Pirminį pranešimą, kai įmanoma, tikrinti su nepriklausomu šaltiniu.
-2. **Patikrinti tariamą išskirtinumą.** Ar tikrai tokio įvykio nebuvo daug metų? Ar tai planinės pratybos, anksčiau paskelbtas veiksmas, pasikartojanti retorika, ar pasikeitęs elgesys? Keli straipsniai, cituojantys tą patį pranešimą, nėra keli nepriklausomi patvirtinimai.
-3. **Apsvarstyti alternatyvius paaiškinimus.** Sutapimas, bendras grafikas, viešoji komunikacija, pasirengimo politika, tikras rizikos pokytis ar kitas paaiškinimas. Vien laiko artumas neįrodo bendros priežasties.
-4. **Aprašyti scenarijus ir nežinomybę.** Vertinti raidą ir pasekmes atskirai. Labai sunki pasekmė savaime nereiškia didelės jos tikimybės. Jei tikimybės pagrįstai įvertinti negalime, taip ir rašome; neįrašome išgalvoto procento.
-5. **Susieti su mūsų sprendimais.** Kas keistųsi asmeniniam pasirengimui, energijos ir maisto priklausomybėms, projektams, tiekimui ar turimiems ištekliams? Ar verta nedidelė grįžtama priemonė, papildomas tyrimas, ar pakanka stebėti?
-6. **Pateikti nepriklausomai peržiūrai.** Prieš svarbų išteklių perskirstymą tikriname, ar nepradėjome kurti išvados pagal baimę arba iš anksto norimą pasakojimą. Galutinį veiksmą patvirtina savininkas.
-7. **Išsaugoti ir vėliau įvertinti prognozę.** Užrašyti vertinimo datą, laikotarpį, prielaidas ir kriterijus, pagal kuriuos spręsime, kas pasitvirtino. Naujas vertinimas turi naują datą; ankstesnės prognozės neperrašome taip, tarsi teisingą atsakymą žinojome iš pradžių.
-
-Stebėjimas nėra garantuotas krizės numatymas. Jei vėliau bus įjungti pranešimai, sutarsime jų sąlygas: reikšmingas naujas patvirtinimas ar sprendimui svarbus pokytis, o ne kiekviena panaši antraštė. Vertinimo peržiūros data ir konkretūs pokyčiai apsaugo tiek nuo nuolatinio aliarmo, tiek nuo pasenusios išvados ignoravimo.
+Krizių ir kitų pavojų signalai vertinami kartu su mūsų tikslais, išteklių priklausomybėmis ir kitomis galimybėmis. Signalų patikros ir scenarijų metodika yra [naujienų struktūroje](naujienos/STRUKTURA.md). Naujienų analizė siūlo, ką stebėti ar tikrinti; ji savaime nepriima įsipareigojimų ir nepaskirsto išteklių. Svarbesnės išvados peržiūrimos, o veiksmus tvirtina savininkas.
 
 ## 6. Keli tikslai viename projekte: 20 vištų pavyzdys
 
