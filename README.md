@@ -50,7 +50,7 @@ Visi trys pirmiausia skirti asmeninei naudai ir patirčiai. Galimos nedidelės p
 
 LRT Opus vietinis projektas: `C:/Users/minda/AndroidStudioProjects/LRTOpusRadio`; repozitorija: https://github.com/minbelapps/LRT-OPUS. Jo kodo neperkeliame į centrinį projektą vien tam, kad viskas būtų vienoje vietoje.
 
-Centrinės kortelės ir pasiekiama ankstesnio darbo medžiaga: [vykdomų projektų registras](projects/README.md). Jame yra atskiri LRT Opus, kolonėlių ir žaidimo atkūrimo aplankai. Kolonėlių ir žaidimo kortelės pradėtos pildyti iš ChatGPT pokalbių, bet visas kodas, brėžiniai ir archyvas dar neperkelti.
+Centrinės kortelės ir pasiekiama ankstesnio darbo medžiaga: [krypčių ir darbų registras](kryptys/README.md). Projektai sugrupuoti pagal kryptis: LRT Opus ir žaidimo atkūrimas – IT, kolonėlės – gamyba. Kolonėlių ir žaidimo kortelės pradėtos pildyti iš ChatGPT pokalbių, bet visas kodas, brėžiniai ir archyvas dar neperkelti.
 
 **Asmeninio projekto įgyvendinimas nebūtinai yra jo pabaiga.** Sukurtą produktą galima tobulinti ir vėliau pasiūlyti kitiems, kai išauga mūsų gebėjimai bei galimybės. Tai nereiškia, kad kiekvienas toks projektas dabar turi tapti prioritetiniu verslu. Tikrinimo gylį deriname prie sprendimo kainos, rizikos ir skiriamų išteklių – pradinio rinkos pavyzdžio nereikia iškart paversti išsamiu verslo auditu.
 
@@ -70,6 +70,8 @@ Analitikai numatome kelias paskirtis:
 
 Galimi maži tyrimo projektai: „Ar verta veikla X?“ arba „Kokiu mažiausiu bandymu patikrintume idėją Y?“. Taip pat numatyta idėjų generatoriaus projekto galimybė: siūlyti idėjas pagal turimas žinias ir išteklius. Nei šis projektas, nei automatinis rinkų stebėjimas dar nepaleisti.
 
+Konkrečios svarstomos idėjos ir analizės (pvz., skolinimo žmonėms platformos) laikomos savo krypčių aplankuose: [kryptys/](kryptys/README.md).
+
 Analizei reikia klausimo, ribos ir panaudojimo: ką tiriame, kiek laiko / pinigų skiriame, koks sprendimas priklausys nuo atsakymo ir kada sustojame. Analitikos sąnaudos bei nauda pačios turi būti vertinamos, kad nenusianalizuotume nejudėdami į priekį.
 
 Pradinis naujienų temų rinkinys apima technologijas, ekonomiką, politiką, teisę, energetiką / maistą, mediciną, žmonių poreikius ir mokslą. Savininko papildymu atskirai įtraukti **karas, kibernetinės atakos, pavojaus signalai ir pasirengimo pavojams požymiai**. Juos vertiname kartu su kitomis temomis ir išsaugome ryšių istoriją. Pradinės temos, analitiko metodika ir signalų / žemėlapių darbo vieta yra [naujienos/](naujienos/README.md). Temų patvirtinimas savaime nepaleidžia automatinio stebėjimo.
@@ -78,7 +80,11 @@ Pradinis naujienų temų rinkinys apima technologijas, ekonomiką, politiką, te
 
 **Savininkas** nustato kryptį, prioritetus, priimtiną riziką ir išteklių paskirstymą; patvirtina siūlomus pakeitimus bei rezultatus. Agentų sutarimas nepakeičia savininko sprendimo.
 
-**Koordinatorius (šiuo metu šiam vaidmeniui pasirinktas Codex)** palaiko bendrą vaizdą: sieja darbus su tikslais, išryškina priklausomybes, derina agentų darbą, saugo sprendimų tęstinumą ir pateikia savininkui aiškius pasirinkimus. Jis nėra neklystantis ir negali pats sau suteikti naujų įgaliojimų.
+**Koordinavimas.** Bendra taisyklė – komandinis darbas. Vaidmenys gali pasiskirstyti pagal stipriąsias puses: vienas agentas gali turėti patobulintus vienus įgūdžius, kitas – kitus. Tokia specializacija atsiranda dėl praktinių sumetimų ir nėra nuolatinė kurio nors agento rolė. Šiuo metu koordinavimą atlieka Codex, nes jis turi daugiausia viso projekto struktūrizavimo konteksto. Koordinuojantis agentas palaiko bendrą vaizdą: sieja darbus su tikslais, išryškina priklausomybes, derina agentų darbą, saugo sprendimų tęstinumą ir pateikia savininkui aiškius pasirinkimus. Koordinuojantis agentas nėra neklystantis ir negali pats sau suteikti naujų įgaliojimų.
+
+Projektą ir jo struktūrą gali tobulinti bet kuris agentas, dirbantis su savininku. Kiti agentai gali peržiūrėti pakeitimus ir išsakyti nuomonę, kas gerai, kas blogai ir ką verta taisyti.
+
+Agentų patirtis skiriasi: šiuo metu daugiausia projekto struktūrizavimo patirties turi Codex, o LRT Opus programavimo – Claude. Jei idėjų yra, bet pritaikyti jas prie projekto struktūros kainuotų per daug išteklių, galima jas aiškiai užrašyti ir perduoti agentui, turinčiam tam tinkamų įgūdžių. Jis idėjas įgyvendina pagal projekto struktūrą, o rezultatą tvirtina savininkas.
 
 **Aplinkos ir galimų krypčių analitikas** stebi aktualius pokyčius, siūlo artimas ir tolimas kryptis, atlieka netikėtas prielaidų patikras ir rengia scenarijus. Tai numatytas vaidmuo, galintis prasidėti nuo vienos ribotos agento užduoties; nuolatinis stebėjimas dar neįjungtas. Jis pateikia atsekamą išvadą ir siūlomą veiksmą ar neveikimą, bet nepriima savininko įsipareigojimų. Bendras vaidmuo aprašytas [SISTEMOS-STRUKTURA.md](SISTEMOS-STRUKTURA.md), o naujienų darbo metodika – [naujienos/STRUKTURA.md](naujienos/STRUKTURA.md).
 
@@ -159,8 +165,9 @@ Darbo ritmas: pasiūlymas → savininko sutikimas → įgyvendinimas → patikri
 - **Yra:** centrinis vietinis projektas ir GitHub repozitorija, pradinis [IDEJA.md](IDEJA.md), šis bendras aprašas ir `.tools/` įrankių registras. Sukurtas vietinis failas dar nebūtinai push'intas.
 - **Google Drive papildinys:** ankstesniu patikrinimu prisijungė prie projektams skirtos paskyros; prieš darbą tikrinti esamą ryšį.
 - **Bendras Google Workspace MCP:** įdiegtas vietinis runtime ir pateikti neaktyvūs konfigūracijos pavyzdžiai; paskutinėje patikrintoje būsenoje Google OAuth ir Codex / Claude aktyvi registracija nebaigti. Žr. [.tools/mcp/google-workspace.md](.tools/mcp/google-workspace.md).
-- **Veiklos teisinė forma:** dar nepasirinkta; individuali veikla pagal pažymą ir individuali įmonė nėra tas pats. Ankstesni tyrimai yra LRT projekto `questions/` aplanke. Tyrimas nėra institucijos išaiškinimas konkrečiam savininkui.
-- **Dar numatyta:** projektų ir veiklų registrai, tikslų ir išteklių suvestinės, diskusijų kambariai, naujas diskusijų protokolas, priežiūros paskyrimai ir reguliarios peržiūros. Jų buvimo neimituojame.
+- **Veiklos teisinė forma:** dar nepasirinkta; individuali veikla pagal pažymą ir individuali įmonė nėra tas pats. Ankstesnių tyrimų kopijos ir esama būsena yra [veiklos formos ir mokėjimų aplanke](veiklos/teisine-forma-ir-mokejimai/README.md); originalai palikti LRT projekto `questions/`. Tyrimas nėra institucijos išaiškinimas konkrečiam savininkui.
+- **Yra pradinis projektų registras:** [krypčių aplankai su trijų vykdomų projektų ir svarstomų idėjų kortelėmis](kryptys/README.md). [Veiklų aplanke](veiklos/README.md) pradėti kaupti bendri pasirengimo klausimai; tai dar ne visas veiklų registras.
+- **Dar numatyta:** visas veiklų registras, tikslų ir išteklių suvestinės, diskusijų kambariai, naujas diskusijų protokolas, priežiūros paskyrimai ir reguliarios peržiūros. Jų buvimo neimituojame.
 
 Pradžiai siūlomas minimalus valdymo branduolys: bendras darbų registras, išteklių suvestinė ir trumpa periodinė peržiūra. Tai dar neįgyvendintas pasiūlymas; formą ir ritmą suderinsime su savininku. Automatizuojame tik tai, kas pasiteisina realiame darbe. Kontrolės centras auga iš poreikio, ne iš noro iškart pastatyti didelę platformą.
 
@@ -169,3 +176,7 @@ Pradžiai siūlomas minimalus valdymo branduolys: bendras darbų registras, išt
 Artimiausiems pokalbiams lieka: konkreti bendro tikslo išraiška ir laikotarpiai, projektų prioritetai bei tempai, dabartinių išteklių ribos, pragyvenimo ir reinvestavimo principai, veiklos forma, diskusijų bei priežiūros praktika, informacijos indeksas ir atsarginių kopijų tvarka.
 
 Savininkas pateiks daugiau detalių. Dokumentą tikslinsime pagal priimtus sprendimus ir realius rezultatus, išsaugodami jų istoriją.
+
+## Sesijų tęstinumas
+
+[Bendri sesijų perdavimo užrašai](sesijos/README.md) padeda komandai tęsti darbus. [2026-11-03 užraše](sesijos/2026-11-03.md) yra pasiekti rezultatai, savininko vertinimas, darbo pamoka ir atviri klausimai. Tai nepakeičia aktualios Git būsenos ar naujausių savininko nurodymų.

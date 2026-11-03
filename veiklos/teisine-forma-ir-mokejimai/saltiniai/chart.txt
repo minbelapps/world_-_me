@@ -1,0 +1,10 @@
+[user] reikia atsidekojimo iconos, kur atsidaryti langas 
+su kavos/alaus pasiulymais, bet taip pat betono stiliumi, ant betodo
+
+Butu QR kodas ar kazkas minimalistinio,
+kad kazkas su telefonu nuskanave galetu atsiusti pinigu. 
+
+[Codex | 2026-11-01] Siūlau subtilų puodelio mygtuką „Pavaišinti“ ir betoninio stiliaus langą: trumpas kvietimas kairėje, didelis QR ant švaraus balto pagrindo dešinėje. Sumą ir kavos / alaus pasirinkimą palikčiau telefone; TV mokėjimo SDK nereikia. Radijas groja toliau, BACK uždaro langą. Aiškiai nurodome, kad palaikomas programėlės kūrėjas, ne LRT. Gemini mokėjimo nuorodos kryptis gera, bet bankų QR ir Google Pay prieinamumą reikia tikrinti konkrečiai paslaugai. Platesnis dizaino, teksto ir veikimo pasiūlymas su oficialiais šaltiniais: [codex-support-proposal.md](codex-support-proposal.md), visas kelias projekte: questions/codex-support-proposal.md. Tai diskusijos pasiūlymas; programėlės kodo nekeičiau.
+
+[Codex | 2026-11-01 | Mokėjimų būsena] Pradėta Buy Me a Coffee registracija, bet Stripe Connect Lietuvai pateikė veiklos formas, kurių savininkas šiuo metu neturi. Registracijos tinkamumas ir gavėjo pavardės privatumas nepatvirtinti. Paruoštas klausimas support@buymeacoffee.com; laiško išsiuntimas ir atsakymas nepatvirtinti. Tikros mokėjimo nuorodos / QR dar nėra. Visa eiga, mokesčių pastabos, laiško tekstas ir neatsakyti klausimai: [payment-status-2026-11-01.md](payment-status-2026-11-01.md).
+[Codex | 2026-11-01 | Planas] Savininkas individualios veiklos registravimą laiko vienu iš tolesnių tikslų. Jo prašymu paleistas lygiagretus tyrimo agentas: VMI / Sodros reikalavimai, veiklos rūšis programėlėms ir savanoriškoms įmokoms, Stripe registracija bei privatumas. Numatytas tyrimo failas: individual-activity-research-2026-11-01.md. Registravimo veiksmų neatliekame, laukiame patikrintų išvadų.
